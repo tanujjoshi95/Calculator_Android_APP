@@ -14,16 +14,16 @@ UI completely in Jetpack Compose.
 
 Screenshots showcasing app's user interface.
 
-![Calculator App Screenshot 1]("C:\Users\tarac\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 120533.png")
+![IMG_20231211_125350085](https://github.com/tanujjoshi95/Calculator_Android_APP/assets/133254500/178d1484-8ab5-4fa9-a929-1d62e60c3b17)
 
-![Calculator App Screenshot 2]("C:\Users\tarac\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 120554.png")
+![WhatsApp Image 2024-03-03 at 13 28 53_89b41d43](https://github.com/tanujjoshi95/Calculator_Android_APP/assets/133254500/9945f164-953d-4f0c-955a-9fdb760c7d60)
 
-![Calculator App Screenshot 3]("C:\Users\tarac\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 120611.png")
+![WhatsApp Image 2024-03-03 at 13 28 52_38e79e10](https://github.com/tanujjoshi95/Calculator_Android_APP/assets/133254500/1dc1d002-9d9a-451e-94f4-5bde7de53c38)
 
 ---
 ## Demo Video
 
-[![Watch the Demo Video]("D:\Screen_recording_20240303_120720.webm")]
+https://github.com/tanujjoshi95/Calculator_Android_APP/assets/133254500/fb6e87ea-7c94-448d-b0d1-717b5dbb9878
 
 ---
 ### Prerequisites
